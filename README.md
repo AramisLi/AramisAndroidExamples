@@ -1,2 +1,3 @@
 # AramisAndroidExamples
 AramisAndroidExamples
+my examples
